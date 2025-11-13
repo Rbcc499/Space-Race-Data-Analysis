@@ -1,6 +1,6 @@
 # Space-Race-Data-Analysis
 This project analyzes global rocket launch data to uncover trends in space exploration, including historical Cold War comparisons and modern commercial space activity. The analysis visualizes launch frequency, success rates, spending, and country-level competition over time.
-[View the interactive Sunburst Chart](https://Rbcc499.github.io/Space-Race-Data-Analysis/sunburst_chart.html)
+[View the interactive Sunburst Chart](https://Rbcc499.github.io/Space-Race-Data-Analysis/code/sunburst_chart.html)
 
 
 **1) Key Features**
